@@ -9,7 +9,7 @@
   "author": "Sarang",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "classnames": "^2.2.6",
     "cors": "^2.8.4",
     "crypto": "^1.0.1",
